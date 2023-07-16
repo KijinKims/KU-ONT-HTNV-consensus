@@ -1,0 +1,11 @@
+name: htnv_consensus
+dependencies:
+  - conda-forge::python>=3.7
+  - conda-forge::pip
+  - bioconda::nextflow
+  - bioconda::medaka
+  - bioconda::bcftools
+  - bioconda::samtools
+  - bioconda::bedtools
+  - bioconda::minimap2
+  - bioconda::vcfpy
